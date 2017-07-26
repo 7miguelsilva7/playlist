@@ -12,25 +12,48 @@ tiles:
   bg_color: "#8B008B"
   tags: ["music"]
 -
-  name: "amazon"
-  url: "https://amazon.com"
-  img: "logos/amazon.svg"
-  bg_color: "#ffffff"
-  txt_color: "#ff9900"
-  tags: ["favorite", "shopping"]
+  name: "Cânticos para Crianças"
+  url: "https://www.youtube.com/embed/rI_WjVPvoc0?list=PLUz8ln5Mg8RTS7NdMqSsWG8TUlkQJ7spa&autoplay=1"
+  img: "logos/cantigo-criancas.svg.png"
+  bg_color: "##000000"
+  txt_color: "#000000"
+  tags: ["music"]
 -
-  name: "reddit"
-  url: "https://reddit.com"
-  img: "logos/reddit.svg"
-  bg_color: "#5f99cf"
+  name: "3 Min de Mateus"
+  url: "https://www.youtube.com/embed/videoseries?list=PL5207698BC9EE3ACC&autoplay=1"
+  img: "logos/3minutos-mateus-200x200.png"
+  bg_color: "#1e1e1e"
   txt_color: "#ffffff"
+  tags: ["evangelho3min"]
+-
+  name: "3 Min de Marcos"
+  url: "https://www.youtube.com/embed/videoseries?list=PLtPw5fFUKkCn5JeI75Oshfr1xIsQ2ssGe&autoplay=1"
+  img: "logos/3minutos-marcos-200x200.png"
+  bg_color: "#1e1e1e"
+  txt_color: "#ffffff"
+  tags: ["evangelho3min"]
+-
+  name: "3 Min de Lucas"
+  url: "https://www.youtube.com/embed/videoseries?list=PLtPw5fFUKkCmVUFavcHCFyhGkNt0BDR7y&autoplay=1"
+  img: "logos/3minutos-lucas-200x200.png"
+  bg_color: "#1e1e1e"
+  txt_color: "#ffffff"
+  tags: ["evangelho3min"]
+-
+  name: "3 Min de João"
+  url: "https://www.youtube.com/embed/videoseries?list=PL2CDF90EAC6270F16&autoplay=1"
+  img: "logos/3minutos-joao-200x200.png"
+  bg_color: "#1e1e1e"
+  txt_color: "#ffffff"
+  tags: ["evangelho3min"]      
+  
 -
   name: "spotify"
   url: "https://web.spotify.com"
   img: "logos/spotify.svg"
   bg_color: "#191414"
   txt_color: "#1db954"
-  tags: ["favorite", "music"]
+  tags: ["favorite"]
 -
   name: "google music"
   url: "https://play.google.com/music/listen"
