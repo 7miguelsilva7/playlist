@@ -248,7 +248,7 @@ tiles:
   tags: ["ministerio"]
 
 -
-  name: "2 João"
+  name: "3 João"
   url: "https://www.youtube.com/embed/QhaLdRVbYzU?list=PLyYK40rcNGfVtME36OdUFpb0UExWrW5pA&autoplay=1"
   img: "logos/ministerio-3joao.svg"
   bg_color: "#ffffff"
