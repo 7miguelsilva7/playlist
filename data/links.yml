@@ -10,7 +10,7 @@ tiles:
   name: "Ministério"
   url: "#ministerio"
   bg_color: "#8e4a00"
-  img: "logos/ministerio.png"
+  img: "logos/ministerio.svg"
   tags: ["biblioteca"]
 
 -
