@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,7 +60,7 @@
      id="image10"
      x="0"
      y="0"
-     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/3minutos-mateus-200x200.png"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/3minutos-marcos-200x200.png"
      inkscape:export-xdpi="100"
      inkscape:export-ydpi="100" />
   <rect
@@ -70,7 +70,7 @@
      height="58.126575"
      x="6.5916734"
      y="135.28175"
-     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/3minutos-mateus-200x200.png"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/3minutos-marcos-200x200.png"
      inkscape:export-xdpi="100"
      inkscape:export-ydpi="100" />
   <text

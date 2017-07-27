@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2500"
+   height="1425"
+   viewBox="15.583 15.334 989.654 564.151"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ministerio-lucas.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="0.16561404"
+     inkscape:cx="1250"
+     inkscape:cy="712.5"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="-916.598"
+     y1="1716.657"
+     x2="-916.598"
+     y2="1663.651"
+     gradientTransform="matrix(10.6432 0 0 -10.6432 10265.9 18285.979)">
+    <stop
+       offset="0"
+       stop-color="#f79810"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#f8310e"
+       id="stop7" />
+  </linearGradient>
+  <text
+     xml:space="preserve"
+     style="font-size:374.45394897px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="18.411291"
+     y="270.69888"
+     id="text2992"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2994"
+       x="18.411291"
+       y="270.69888"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">Ministério</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:296.9095459px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
+     x="398.53101"
+     y="468.37189"
+     id="text2992-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2994-3"
+       x="398.53101"
+       y="468.37189"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#800080;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">João</tspan></text>
+</svg>
