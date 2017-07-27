@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2500"
@@ -13,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="ministerio.svg">
+   sodipodi:docname="musicas.svg">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -27,7 +28,19 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs13" />
+     id="defs13">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3005">
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none"
+         id="rect3007"
+         width="891.64545"
+         height="344.22775"
+         x="-1127.1041"
+         y="87.048111" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,8 +55,8 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="0.16561404"
-     inkscape:cx="1250"
-     inkscape:cy="712.50002"
+     inkscape:cx="586.16904"
+     inkscape:cy="798.72727"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -65,16 +78,32 @@
        stop-color="#f8310e"
        id="stop7" />
   </linearGradient>
+  <image
+     width="958.02075"
+     height="562.88013"
+     xlink:href="file:///opt/lampp/htdocs/playlist/static/logos/images.png"
+     id="image10"
+     x="-1175.2654"
+     y="-19.448313"
+     clip-path="url(#clipPath3005)"
+     transform="matrix(1.0697051,0,0,1.1206434,1241.0346,-75.044482)"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/musicas.png"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100" />
   <text
      xml:space="preserve"
-     style="font-size:336.32843018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="46.934551"
-     y="366.68372"
-     id="text2992"
-     sodipodi:linespacing="125%"><tspan
+     style="font-size:338.9152832px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="168.78271"
+     y="515.22137"
+     id="text2987"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0325403,0.9684852)"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/musicas.png"
+     inkscape:export-xdpi="100"
+     inkscape:export-ydpi="100"><tspan
        sodipodi:role="line"
-       id="tspan2994"
-       x="46.934551"
-       y="366.68372"
-       style="font-size:356.51910400000002710px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach;fill:#ffffff">Ministério</tspan></text>
+       id="tspan2989"
+       x="168.78271"
+       y="515.22137"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff00ff;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">Músicas</tspan></text>
 </svg>

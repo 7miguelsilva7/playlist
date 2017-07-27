@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="diversos.svg">
+   sodipodi:docname="ministerio.svg">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -43,7 +43,7 @@
      showgrid="false"
      inkscape:zoom="0.16561404"
      inkscape:cx="1250"
-     inkscape:cy="712.5"
+     inkscape:cy="712.50002"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -67,26 +67,14 @@
   </linearGradient>
   <text
      xml:space="preserve"
-     style="font-size:374.45394897px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-     x="18.411291"
-     y="270.69888"
+     style="font-size:336.32843018px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="46.934551"
+     y="366.68372"
      id="text2992"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan2994"
-       x="18.411291"
-       y="270.69888"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">Ministério</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:273.98861694px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800080;fill-opacity:1;stroke:none;font-family:Sans"
-     x="528.9566"
-     y="460.49365"
-     id="text2992-6"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan2994-3"
-       x="528.9566"
-       y="460.49365"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#800080;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">Judas</tspan></text>
+       x="46.934551"
+       y="366.68372"
+       style="font-size:356.51910400000002710px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach;fill:#ffffff">Ministério</tspan></text>
 </svg>
