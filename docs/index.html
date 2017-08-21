@@ -1,38 +1,18 @@
-<!DOCTYPE html>
 <html>
-
 <head>
 	<meta name="generator" content="Hugo 0.20.2" />
- <meta charset="UTF-8"> 
+</div>
+    <meta charset="UTF-8"> 
     <title>Playlists</title>
     <link rel="shortcut icon" href="favicon.ico">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Icons Dark Navigation</title>
-
-    <link rel="stylesheet" href="assets/demo.css">
-    <link rel="stylesheet" href="assets/navigation-dark.css">
-    <link rel="stylesheet" href="assets/slicknav/slicknav.min.css">
-
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-
-
+    <link rel="stylesheet" href="css/slate.css">
 </head>
 
 <body>
 
-<nav class="menu-navigation-dark">
-    <a href="#"><i class="fa fa-camera-retro"></i><span>Pictures</span></a>
-    <a href="#"><i class="fa fa-code"></i><span>Code</span></a>
-    <a href="#" class="selected"><i class="fa fa-comment"></i><span>Talks</span></a>
-    <a href="#"><i class="fa fa-plane"></i><span>Travel</span></a>
-    <a href="#"><i class="fa fa-heart"></i><span>Favorites</span></a>
-</nav>
 
 
 
-<div class="menu">
 
 <div class="container"><div class="tile-container">
 <a class="tile tile-link" href="#music" data-groups='biblioteca'>
@@ -263,29 +243,11 @@
 
 </div>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="assets/slicknav/jquery.slicknav.min.js"></script>
-
-<script>
-
-    $(function(){
-
-        var menu = $('.menu-navigation-dark');
-
-        menu.slicknav();
-
-        
-
-        menu.on('click', 'a', function(){
-            var a = $(this);
-
-            a.siblings().removeClass('selected');
-            a.addClass('selected');
-        });
-    });
-
-</script>
-
 </body>
 
+<a href="/" target="_parent">
+<img style="width:72px;height:72px;display:scroll;position:fixed;top:20px;left:10px;color:#f00;font-weight:bold;"  src="logos/home.png"/>
+</a>
+<link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
+<script src="js/slate.js"></script>
 </html>
