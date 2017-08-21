@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "Playlists"
 theme = "slate"
 
 publishDir = "docs"
@@ -11,7 +11,7 @@ OpenLinksInNewWindow = true
 
 [[ params.nav ]]
 name = "favorites"
-tag = "favorite"
+tag = "biblioteca"
 icon = "star"
 
 [[ params.nav ]]

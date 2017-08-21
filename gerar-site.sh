@@ -1,8 +1,10 @@
 #gerar site
-
 hugo
 cd docs
-mv index.html menu.html
-cp /opt/lampp/htdocs/playlist/detectar-dispositivo/frame.html .
-cp /opt/lampp/htdocs/playlist/detectar-dispositivo/index.html .
+sed -i "s:data\-groups\='biblioteca' target\=\"_target\":data\-groups\='biblioteca':g" index.html
 
+git add .
+git commit -m "update"
+git push
+
+firefox https://cpanel.hostinger.com.br/git/index/aid/29625179

@@ -21,55 +21,63 @@ tiles:
 
 -
   name: "Hinário"
-  url: "https://www.youtube.com/embed/videoseries?list=PLyYK40rcNGfXrjTJm0aX3G11Dv8hkTzUz&autoplay=1"
+  url: "https://www.youtube.com/watch?v=6YEHZPaKuCE&list=PLyYK40rcNGfXrjTJm0aX3G11Dv8hkTzUz&autoplay=1"
   img: "logos/hinario-cantado.svg"
   tags: ["music"]
 -
   name: "Salmos e Cânticos"
-  url: "https://www.youtube.com/embed/videoseries?list=PLUz8ln5Mg8RQ3VnPuRsAt3ATZjK9GYzhC&autoplay=1"
+  url: "https://www.youtube.com/watch?v=1To0V263WjA&list=PLUz8ln5Mg8RQ3VnPuRsAt3ATZjK9GYzhC&autoplay=1"
   img: "logos/salmos-canticos.svg"
   txt_color: "#ffffff"
   bg_color: "#8B008B"
   tags: ["music"]
 -
   name: "Cânticos para Crianças"
-  url: "https://www.youtube.com/embed/rI_WjVPvoc0?list=PLUz8ln5Mg8RTS7NdMqSsWG8TUlkQJ7spa&autoplay=1"
+  url: "https://www.youtube.com/watch?v=rI_WjVPvoc0&list=PLUz8ln5Mg8RTS7NdMqSsWG8TUlkQJ7spa&autoplay=1"
   img: "logos/cantigo-criancas.svg.png"
   bg_color: "##000000"
   txt_color: "#000000"
   tags: ["music"]
 -
   name: "3 Min de Mateus"
-  url: "https://www.youtube.com/embed/videoseries?list=PL5207698BC9EE3ACC&autoplay=1"
+  url: "https://www.youtube.com/watch?v=ZnsRvdovBvY&list=PL5207698BC9EE3ACC&autoplay=1"
   img: "logos/3minutos-mateus-200x200.png"
   bg_color: "#1e1e1e"
   txt_color: "#ffffff"
   tags: ["evangelho3min"]
 -
   name: "3 Min de Marcos"
-  url: "https://www.youtube.com/embed/videoseries?list=PLtPw5fFUKkCn5JeI75Oshfr1xIsQ2ssGe&autoplay=1"
+  url: "https://www.youtube.com/watch?v=YQ6i0ce8ci0&list=PLtPw5fFUKkCn5JeI75Oshfr1xIsQ2ssGe&autoplay=1"
   img: "logos/3minutos-marcos-200x200.png"
   bg_color: "#1e1e1e"
   txt_color: "#ffffff"
   tags: ["evangelho3min"]
 -
   name: "3 Min de Lucas"
-  url: "https://www.youtube.com/embed/videoseries?list=PLtPw5fFUKkCmVUFavcHCFyhGkNt0BDR7y&autoplay=1"
+  url: "https://www.youtube.com/watch?v=_a6t_hT6Nq8&list=PLtPw5fFUKkCmVUFavcHCFyhGkNt0BDR7y&autoplay=1"
   img: "logos/3minutos-lucas-200x200.png"
   bg_color: "#1e1e1e"
   txt_color: "#ffffff"
   tags: ["evangelho3min"]
 -
   name: "3 Min de João"
-  url: "https://www.youtube.com/embed/videoseries?list=PL2CDF90EAC6270F16&autoplay=1"
+  url: "https://www.youtube.com/watch?v=WyW78_swExE&list=PL2CDF90EAC6270F16&autoplay=1"
   img: "logos/3minutos-joao-200x200.png"
   bg_color: "#1e1e1e"
   txt_color: "#ffffff"
-  tags: ["evangelho3min"]      
+  tags: ["evangelho3min"]   
+
+-
+  name: "Respondi.com"
+  url: "https://www.youtube.com/watch?v=XW1-wMvsdVw&list=PLQF-uOb9WYG4llagnnHrx8pJ6A3ABCMW2&autoplay=1"
+  img: "logos/respondi.com.png"
+  bg_color: "#1e1e1e"
+  txt_color: "#ffffff"
+  tags: ["evangelho3min"]     
   
 -
   name: "Salmos"
-  url: "https://www.youtube.com/embed/QhaLdRVbYzU?list=PLyYK40rcNGfVtME36OdUFpb0UExWrW5pA&autoplay=1"
+  url: "https://www.youtube.com/watch?v=QhaLdRVbYzU&list=PLyYK40rcNGfVtME36OdUFpb0UExWrW5pA&autoplay=1"
   img: "logos/ministerio-salmos.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -77,7 +85,7 @@ tiles:
 
 -
   name: "Provérbios"
-  url: "https://www.youtube.com/embed/1IvrAET9twI?list=PLyYK40rcNGfWSRfxlg2hKw1ceQSGJRarf&autoplay=1"
+  url: "https://www.youtube.com/watch?v=1IvrAET9twI&list=PLyYK40rcNGfWSRfxlg2hKw1ceQSGJRarf&autoplay=1"
   img: "logos/ministerio-proverbios.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -93,7 +101,7 @@ tiles:
 
 -
   name: "Isaías"
-  url: "https://www.youtube.com/embed/sDIX3Sb1oEY?list=PLyYK40rcNGfULlPkCMQ1qM8nQmkTwOAvj&autoplay=1"
+  url: "https://www.youtube.com/watch?v=sDIX3Sb1oEY&list=PLyYK40rcNGfULlPkCMQ1qM8nQmkTwOAvj&autoplay=1"
   img: "logos/ministerio-isaias.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -101,7 +109,7 @@ tiles:
 
 -
   name: "Jeremias"
-  url: "https://www.youtube.com/embed/YjZkI1z1S6I?list=PLyYK40rcNGfWLg1y5oPZ-UcbmASo4m2Il&autoplay=1"
+  url: "https://www.youtube.com/watch?v=YjZkI1z1S6I&list=PLyYK40rcNGfWLg1y5oPZ-UcbmASo4m2Il&autoplay=1"
   img: "logos/ministerio-jeremias.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -109,7 +117,7 @@ tiles:
 
 -
   name: "Mateus"
-  url: "https://www.youtube.com/embed/fy7vXjW1D3M?list=PLyYK40rcNGfUNgWW29s9OM6ZXzqhUcEyk&autoplay=1"
+  url: "https://www.youtube.com/watch?v=fy7vXjW1D3M&list=PLyYK40rcNGfUNgWW29s9OM6ZXzqhUcEyk&autoplay=1"
   img: "logos/ministerio-mateus.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -117,7 +125,7 @@ tiles:
 
 -
   name: "Marcos"
-  url: "https://www.youtube.com/embed/K66pof4XKFA?list=PLyYK40rcNGfWRnNomV4xWzcRAExsR2p8C&autoplay=1"
+  url: "https://www.youtube.com/watch?v=K66pof4XKFA&list=PLyYK40rcNGfWRnNomV4xWzcRAExsR2p8C&autoplay=1"
   img: "logos/ministerio-marcos.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -141,7 +149,7 @@ tiles:
 
 -
   name: "Atos"
-  url: "https://www.youtube.com/embed/UwkapNbYtcE?list=PLyYK40rcNGfX1aZV40r9mth6TJwvsUyIX&autoplay=1"
+  url: "https://www.youtube.com/watch?v=UwkapNbYtcE&list=PLyYK40rcNGfX1aZV40r9mth6TJwvsUyIX&autoplay=1"
   img: "logos/ministerio-atos.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -149,7 +157,7 @@ tiles:
 
 -
   name: "Romanos"
-  url: "https://www.youtube.com/embed/3VrO-a9y85I?list=PLyYK40rcNGfVd82eU8hobfXEWof_ZNxe9&autoplay=1"
+  url: "https://www.youtube.com/watch?v=3VrO-a9y85I&list=PLyYK40rcNGfVd82eU8hobfXEWof_ZNxe9&autoplay=1"
   img: "logos/ministerio-romanos.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -157,7 +165,7 @@ tiles:
 
 -
   name: "1 Coríntios"
-  url: "https://www.youtube.com/embed/rOuKe-0uyGw?list=PLyYK40rcNGfUqhvAt7h0oLJd06MOj7YR8&autoplay=1"
+  url: "https://www.youtube.com/watch?v=rOuKe-0uyGw&list=PLyYK40rcNGfUqhvAt7h0oLJd06MOj7YR8&autoplay=1"
   img: "logos/ministerio-1corintios.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -189,7 +197,7 @@ tiles:
 
 -
   name: "Colossenses"
-  url: "https://www.youtube.com/embed/Rw6fA30ZfiA?list=PLyYK40rcNGfUp_Ci8_zoQL-wLKFsCpYgp&autoplay=1"
+  url: "https://www.youtube.com/watch?v=Rw6fA30ZfiA&list=PLyYK40rcNGfUp_Ci8_zoQL-wLKFsCpYgp&autoplay=1"
   img: "logos/ministerio-colossenses.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -197,7 +205,7 @@ tiles:
 
 -
   name: "1 Tessalonicenses"
-  url: "https://www.youtube.com/embed/daEtdvICce4?list=PLyYK40rcNGfUXz_kh87nYeWYS4LUBSbse&autoplay=1"
+  url: "https://www.youtube.com/watch?v=daEtdvICce4&list=PLyYK40rcNGfUXz_kh87nYeWYS4LUBSbse&autoplay=1"
   img: "logos/ministerio-1tessalonicenses.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -205,7 +213,7 @@ tiles:
 
 -
   name: "2 Tessalonicenses"
-  url: "https://www.youtube.com/embed/X4AQf65NSpk?list=PLyYK40rcNGfVRxgqrpwOAlPDewMJxpkgF&autoplay=1"
+  url: "https://www.youtube.com/watch?v=X4AQf65NSpk&list=PLyYK40rcNGfVRxgqrpwOAlPDewMJxpkgF&autoplay=1"
   img: "logos/ministerio-2tessalonicenses.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -213,7 +221,7 @@ tiles:
 
 -
   name: "1 Timóteo"
-  url: "https://www.youtube.com/embed/sGJCsslZW_I?list=PLyYK40rcNGfWicDME4xP-aAkOIfefS8Rm&autoplay=1"
+  url: "https://www.youtube.com/watch?v=sGJCsslZW_I&list=PLyYK40rcNGfWicDME4xP-aAkOIfefS8Rm&autoplay=1"
   img: "logos/ministerio-1timoteo.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -221,7 +229,7 @@ tiles:
 
 -
   name: "2 Timóteo"
-  url: "https://www.youtube.com/embed/GhgI9aTyq58?list=PLyYK40rcNGfXB9aNRDY0hxAu9YD_jGF2B&autoplay=1"
+  url: "https://www.youtube.com/watch?v=GhgI9aTyq58&list=PLyYK40rcNGfXB9aNRDY0hxAu9YD_jGF2B&autoplay=1"
   img: "logos/ministerio-2timoteo.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -229,7 +237,7 @@ tiles:
 
 -
   name: "Tito"
-  url: "https://www.youtube.com/embed/wNM4e-FCSoQ?list=PLyYK40rcNGfWy4LPaPLesXuOgzbleTAXB&autoplay=1"
+  url: "https://www.youtube.com/watch?v=wNM4e-FCSoQ&list=PLyYK40rcNGfWy4LPaPLesXuOgzbleTAXB&autoplay=1"
   img: "logos/ministerio-tito.svg"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -285,9 +293,9 @@ tiles:
 
 -
   name: "Apocalipse"
-  url: "https://www.youtube.com/embed/ZtFCvM2dtUg?list=PLyYK40rcNGfVeZNu3MRSej8Y6IgmNEsYw&autoplay=1"
-  img: "logos/ministerio-apocalipse.svg"
-  bg_color: "#ffffff"
+  url: "https://www.youtube.com/watch?v=1BUxZulk1RA&list=PLtPw5fFUKkClVMgYcNtJMpNXGTS0j8Kit&autoplay=1"
+  img: "logos/apocalipse.png"
+  bg_color: "#000000"
   txt_color: "#1db954"
   tags: ["ministerio"]
 
