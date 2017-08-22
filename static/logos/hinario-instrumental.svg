@@ -13,7 +13,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="hinario-cantado.svg">
+   sodipodi:docname="hinario-instrumental.svg"
+   inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/hinario-instrumental.png"
+   inkscape:export-xdpi="20"
+   inkscape:export-ydpi="20">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -43,7 +46,7 @@
      showgrid="false"
      inkscape:zoom="0.16561404"
      inkscape:cx="1250"
-     inkscape:cy="712.5"
+     inkscape:cy="712.50002"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"

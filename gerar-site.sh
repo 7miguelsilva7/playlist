@@ -1,8 +1,8 @@
 #gerar site
 hugo
+cp -r cssmenu docs
 cd docs
 sed -i "s:data\-groups\='biblioteca' target\=\"_target\":data\-groups\='biblioteca':g" index.html
-
 git add .
 git commit -m "update"
 git push

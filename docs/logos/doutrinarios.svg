@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="270"
+   height="186"
+   sodipodi:docname="doutrinarios.svg"
+   inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/doutrinarios.png"
+   inkscape:export-xdpi="199.83871"
+   inkscape:export-ydpi="199.83871">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="824"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.5376344"
+     inkscape:cx="86.700293"
+     inkscape:cy="94.02722"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     y="-0.38135669"
+     x="-0.55508399"
+     id="image2992"
+     xlink:href="file:///opt/lampp/htdocs/playlist/static/logos/pergaminho.png"
+     height="186.76271"
+     width="270.24191"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/doutrinarios.png"
+     inkscape:export-xdpi="220.22597"
+     inkscape:export-ydpi="220.22597" />
+  <text
+     xml:space="preserve"
+     style="font-size:70.99946594px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="15.674617"
+     y="104.49548"
+     id="text2987"
+     sodipodi:linespacing="125%"
+     inkscape:export-filename="/opt/lampp/htdocs/playlist/static/logos/doutrinarios.png"
+     inkscape:export-xdpi="220.22597"
+     inkscape:export-ydpi="220.22597"><tspan
+       sodipodi:role="line"
+       id="tspan2989"
+       x="15.674617"
+       y="104.49548"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Moonlights on the Beach;-inkscape-font-specification:Moonlights on the Beach">Doutrinários</tspan></text>
+</svg>
