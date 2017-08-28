@@ -1,0 +1,44 @@
+<html>
+<head>
+</div>
+    <meta charset="UTF-8"> 
+    <title>{{ .Title }}</title>{{ if .Site.Params.Favicon }}
+    <link rel="shortcut icon" href="{{ .Site.Params.Favicon }}">{{ end }}
+    <link rel="stylesheet" href="css/slate.css">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="cssmenu/styles.css">
+   <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="cssmenu/script.js"></script>
+</head>
+
+<body{{ if .Site.Params.BackgroundStyle }} style='background: {{ .Site.Params.BackgroundStyle | safeCSS }};'{{ end }}
+{{- if .Site.Params.BackgroundImages }} data-backgrounds='{{ range .Site.Params.BackgroundImages }}{{ . }},{{ end }}'{{- end }}>
+
+<div id='cssmenu'>
+<ul>
+   <li><a href='#'><span>Todos</span></a></li>
+   <li class='last'><a href='#music'><span>Músicas</span></a></li>
+   <li><a href='#ministerio-at'><span>Minist. AT</span></a></li>
+   <li><a href='#ministerio-nt'><span>Minist. NT</span></a></li>
+   <li class='last'><a href='#evangelho3min'><span>Evangelho em 3min</span></a></li>
+   <li class='last'><a href='#evangelisticos'><span>Evangelísticos</span></a></li>
+   <li class='last'><a href='#doutrinarios'><span>Doutrinários</span></a></li>
+   <li class='last'><a href='#conferencias'><span>Conferências</span></a></li>
+</ul>
+</div>
+
+<!--{{ partial "nav.html" . }}-->
+
+<div class="container">{{ partial "tile_slate.html" . }}
+</div>
+
+</body>
+<!--
+<a href="/" target="_parent">
+<img style="width:72px;height:72px;display:scroll;position:fixed;top:20px;left:10px;color:#f00;font-weight:bold;"  src="logos/home.png"/>
+</a>-->
+<link href="https://fonts.googleapis.com/css?family=Exo" rel="stylesheet">
+<script src="js/slate.js"></script>
+</html>
