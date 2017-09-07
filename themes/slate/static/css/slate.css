@@ -1606,8 +1606,8 @@
      flex-direction:row;
      flex-wrap:wrap
      ;justify-content:center;
-     width:70%;
-     margin:10px;
+     width:50%;
+     margin:auto;
      min-width:calc(188px + 16px)
      }
  
