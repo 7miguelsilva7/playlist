@@ -74,7 +74,7 @@ tiles:
 
 -
   name: "Eclesiastes"
-  url: "file:///opt/lampp/htdocs/playlist/static/logos/playlist-vazia.png"
+  url: "https://www.youtube.com/watch?v=aQZqMOEVLWw&list=PLyYK40rcNGfWp10RpRAiqWyVC21k91GIY&autoplay=1"
   img: "logos/ministerio-eclesiastes.png"
   bg_color: "#ffffff"
   txt_color: "#1db954"
@@ -112,21 +112,21 @@ tiles:
   txt_color: "#1db954"
   tags: ["ministerio-nt"]
 
-# -
-#   name: "Lucas"
-#   url: "######&autoplay=1"
-#   img: "logos/ministerio-lucas.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Lucas"
+  url: "https://www.youtube.com/watch?v=1lH7U09StZ8&list=PLyYK40rcNGfXuTz_z6OVbBWxWFfLtN-JU&autoplay=1"
+  img: "logos/ministerio-lucas.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "João"
-#   url: "####"
-#   img: "logos/ministerio-joao.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "João"
+  url: "https://www.youtube.com/watch?v=3zBLD00wuhI&list=PLyYK40rcNGfVBxXUEXbRwN91ErcZXua0v&autoplay=1"
+  img: "logos/ministerio-joao.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
 -
   name: "Atos"
@@ -154,27 +154,27 @@ tiles:
 
 # -
 #   name: "2 Coríntios"
-#   url: "####"
+#   url: "####&autoplay=1"
 #   img: "logos/ministerio-2corintios.png"
 #   bg_color: "#ffffff"
 #   txt_color: "#1db954"
 #   tags: ["ministerio"]
 
-# -
-#   name: "Efésios"
-#   url: "####"
-#   img: "logos/ministerio-efesios.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Efésios"
+  url: "https://www.youtube.com/watch?v=b5eHUJVNDz0&list=PLyYK40rcNGfW0-eZkLMEM8SvY5j6bfrw2&autoplay=1"
+  img: "logos/ministerio-efesios.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "Filipenses"
-#   url: "####"
-#   img: "logos/ministerio-filipenses.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Filipenses"
+  url: "https://www.youtube.com/watch?v=X4bLN9jBTKs&list=PLyYK40rcNGfXXC7Wd0FBQU12oWdzLUJte&autoplay=1"
+  img: "logos/ministerio-filipenses.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
 -
   name: "Colossenses"
@@ -224,53 +224,53 @@ tiles:
   txt_color: "#1db954"
   tags: ["ministerio-nt"]
 
-# -
-#   name: "Filemon"
-#   url: "####"
-#   img: "logos/ministerio-filemon.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Filemon"
+  url: "https://www.youtube.com/watch?v=puGMYT6O-Yc&list=PLyYK40rcNGfXUyYn_F009AoWDOTDKGdfN&autoplay=1"
+  img: "logos/ministerio-filemon.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "Hebreus"
-#   url: "####"
-#   img: "logos/ministerio-hebreus.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Hebreus"
+  url: "https://www.youtube.com/watch?v=CB53xUOKIwA&list=PLyYK40rcNGfX-4VdndgkZP1TUH8XF9gGm&autoplay=1"
+  img: "logos/ministerio-hebreus.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "1 João"
-#   url: "####"
-#   img: "logos/ministerio-1joao.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "1 João"
+  url: "https://www.youtube.com/watch?v=BExfKQKGf_c&list=PLyYK40rcNGfWO56jAMJ37ZZ22RJ37zZGQ&autoplay=1"
+  img: "logos/ministerio-1joao.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "2 João"
-#   url: "####"
-#   img: "logos/ministerio-2joao.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "2 João"
+  url: "https://www.youtube.com/watch?v=4ylhcGex0Hs&list=PLyYK40rcNGfVOWYJcpKK0woCfJQGFoW46&autoplay=1"
+  img: "logos/ministerio-2joao.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "3 João"
-#   url: "####"
-#   img: "logos/ministerio-3joao.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "3 João"
+  url: "https://www.youtube.com/watch?v=N-Kh5A9lEyw&list=PLyYK40rcNGfW3u41334HWzKLLyt4c5Uxa&autoplay=1"
+  img: "logos/ministerio-3joao.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
-# -
-#   name: "Judas"
-#   url: "####"
-#   img: "logos/ministerio-judas.png"
-#   bg_color: "#ffffff"
-#   txt_color: "#1db954"
-#   tags: ["ministerio"]
+-
+  name: "Judas"
+  url: "https://www.youtube.com/watch?v=bOgRnt1n6Ig&list=PLyYK40rcNGfV19-Jvvta0Tpd6AnRibn5E&autoplay=1"
+  img: "logos/ministerio-judas.png"
+  bg_color: "#ffffff"
+  txt_color: "#1db954"
+  tags: ["ministerio-nt"]
 
 -
   name: "Apocalipse"
@@ -298,7 +298,7 @@ tiles:
 
 # -
 #   name: "Diversos"
-#   url: "####"
+#   url: "####&autoplay=1"
 #   img: "logos/diversos.png"
 #   bg_color: "#ffffff"
 #   txt_color: "#1db954"
